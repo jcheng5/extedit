@@ -1,0 +1,9 @@
+Name: Launch Editor (source)
+Description: Launches options(exteditor) with the current source document
+Binding: launchExternalEditorFile
+Interactive: false
+
+Name: Launch Editor (cwd)
+Description: Launches options(exteditor) with the current working dir
+Binding: launchExternalEditorCwd
+Interactive: false
